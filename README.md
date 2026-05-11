@@ -42,4 +42,8 @@
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USER&theme=tokyonight" width="48%" />
 </p>
 
-![Snake Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
