@@ -1,9 +1,9 @@
 <table align="center" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="550" style="border: none;">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=9D50BB&center=false&vCenter=true&width=550&height=70&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+PS+Mentor" alt="Typing SVG" />
+    <td align="center" width="600" style="border: none; vertical-align: middle;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&color=9D50BB&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+PS+Mentor" alt="Typing SVG" />
     </td>
-    <td align="right" width="350" style="border: none;">
+    <td align="center" width="350" style="border: none; vertical-align: middle;">
       <img src="avatar.png" width="350" style="border-radius: 20px;" alt="Mostafa Yassin Avatar" />
     </td>
   </tr>
