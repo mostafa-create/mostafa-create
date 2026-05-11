@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&color=9D50BB&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+ECPC+Finalist" alt="Typing SVG" />
+</p>
 
 ###
 
