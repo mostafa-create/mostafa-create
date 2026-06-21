@@ -34,11 +34,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
 </div>
 
 ###
